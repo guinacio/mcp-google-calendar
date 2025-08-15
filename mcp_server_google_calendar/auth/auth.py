@@ -24,7 +24,7 @@ def get_token_path() -> Path:
 
 def get_credentials_path() -> Path:
     """Get the path to the credentials file."""
-    return get_project_root() / "mcp-calendar-google" / "mcp_server_google_calendar" / "credentials.json"
+    return get_project_root() / "mcp-google-calendar" / "mcp_server_google_calendar" / "credentials.json"
 
 
 def load_saved_credentials() -> Optional[Credentials]:
