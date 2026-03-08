@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+> ## ⚠️ Looking for a Complete Google MCP Solution?
+>
+> This repository provides **Google Calendar** integration only.
+> If you need a **full-featured Google MCP package** — including **Gmail**, **Google Drive**, **Google Calendar**, and more — check out my complete workspace package:
+>
+> ### 👉 [mcp-google-workspace](https://github.com/guinacio/mcp-google-workspace)
+>
+> The `mcp-google-workspace` package bundles all Google service integrations into a single, easy-to-configure MCP server. It's the recommended choice for most users.
+
+---
+
 # Google Calendar MCP Server
 
 A Model Context Protocol (MCP) server that allows Claude and other MCP clients to interact with Google Calendar. This server enables AI assistants to manage your calendar events, check availability, and handle scheduling tasks.
